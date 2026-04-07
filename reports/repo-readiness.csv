@@ -1,0 +1,7 @@
+repo_name,title,release_gate,overall_status,ci_status,docs_status,demo_status,license_status,automation_status,blocker_count
+systems-engineering-traceability-lab,Requirements Traceability Lab,showcase_release,ready,green,ready,ready,ready,ready,0
+autonomous-disaster-response-digital-thread,Autonomous Disaster Response Digital Thread,portfolio_hub,ready,green,ready,ready,ready,ready,0
+program-risk-board,Program Risk Board,governance_release,ready,green,ready,ready,ready,ready,0
+ops-concept-simulator,Ops Concept Simulator,operations_release,ready,green,ready,ready,ready,ready,0
+autonomous-disaster-response-program-office,Autonomous Disaster Response Program Office,program_office_release,needs_work,green,ready,needs_work,ready,ready,1
+federated-mbse-ecosystem,Federated MBSE Ecosystem,ecosystem_release,blocked,yellow,in_progress,blocked,planned,in_progress,2

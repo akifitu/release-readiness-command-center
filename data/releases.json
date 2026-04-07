@@ -1,0 +1,79 @@
+[
+  {
+    "repo_name": "systems-engineering-traceability-lab",
+    "title": "Requirements Traceability Lab",
+    "release_gate": "showcase_release",
+    "overall_status": "ready",
+    "ci_status": "green",
+    "docs_status": "ready",
+    "demo_status": "ready",
+    "license_status": "ready",
+    "automation_status": "ready",
+    "blockers": []
+  },
+  {
+    "repo_name": "autonomous-disaster-response-digital-thread",
+    "title": "Autonomous Disaster Response Digital Thread",
+    "release_gate": "portfolio_hub",
+    "overall_status": "ready",
+    "ci_status": "green",
+    "docs_status": "ready",
+    "demo_status": "ready",
+    "license_status": "ready",
+    "automation_status": "ready",
+    "blockers": []
+  },
+  {
+    "repo_name": "program-risk-board",
+    "title": "Program Risk Board",
+    "release_gate": "governance_release",
+    "overall_status": "ready",
+    "ci_status": "green",
+    "docs_status": "ready",
+    "demo_status": "ready",
+    "license_status": "ready",
+    "automation_status": "ready",
+    "blockers": []
+  },
+  {
+    "repo_name": "ops-concept-simulator",
+    "title": "Ops Concept Simulator",
+    "release_gate": "operations_release",
+    "overall_status": "ready",
+    "ci_status": "green",
+    "docs_status": "ready",
+    "demo_status": "ready",
+    "license_status": "ready",
+    "automation_status": "ready",
+    "blockers": []
+  },
+  {
+    "repo_name": "autonomous-disaster-response-program-office",
+    "title": "Autonomous Disaster Response Program Office",
+    "release_gate": "program_office_release",
+    "overall_status": "needs_work",
+    "ci_status": "green",
+    "docs_status": "ready",
+    "demo_status": "needs_work",
+    "license_status": "ready",
+    "automation_status": "ready",
+    "blockers": [
+      "Capture one enterprise-level topology screenshot for README"
+    ]
+  },
+  {
+    "repo_name": "federated-mbse-ecosystem",
+    "title": "Federated MBSE Ecosystem",
+    "release_gate": "ecosystem_release",
+    "overall_status": "blocked",
+    "ci_status": "yellow",
+    "docs_status": "in_progress",
+    "demo_status": "blocked",
+    "license_status": "planned",
+    "automation_status": "in_progress",
+    "blockers": [
+      "Top-level ecosystem repo has not been created yet",
+      "Submodule topology has not been validated"
+    ]
+  }
+]

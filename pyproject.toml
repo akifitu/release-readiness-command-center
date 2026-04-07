@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "release-readiness-command-center"
+version = "0.1.0"
+description = "Release and publication readiness hub for a systems engineering portfolio."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+authors = [
+  { name = "Akif" }
+]
+keywords = [
+  "systems-engineering",
+  "release-readiness",
+  "portfolio",
+  "governance"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+
+[project.scripts]
+release-readiness-center = "release_readiness_center.cli:run"
+
+[tool.setuptools.packages.find]
+where = ["src"]
