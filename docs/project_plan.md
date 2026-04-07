@@ -36,4 +36,4 @@
 - [x] build a realistic portfolio readiness dataset
 - [x] implement validation and exporter logic
 - [x] add regression tests
-- [ ] publish the repository
+- [x] publish the repository
