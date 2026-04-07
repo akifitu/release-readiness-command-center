@@ -1,4 +1,2 @@
 repo_name,release_gate,overall_status,blocker
 autonomous-disaster-response-program-office,program_office_release,needs_work,Capture one enterprise-level topology screenshot for README
-federated-mbse-ecosystem,ecosystem_release,blocked,Top-level ecosystem repo has not been created yet
-federated-mbse-ecosystem,ecosystem_release,blocked,Submodule topology has not been validated

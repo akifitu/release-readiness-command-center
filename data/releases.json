@@ -65,15 +65,12 @@
     "repo_name": "federated-mbse-ecosystem",
     "title": "Federated MBSE Ecosystem",
     "release_gate": "ecosystem_release",
-    "overall_status": "blocked",
-    "ci_status": "yellow",
-    "docs_status": "in_progress",
-    "demo_status": "blocked",
-    "license_status": "planned",
-    "automation_status": "in_progress",
-    "blockers": [
-      "Top-level ecosystem repo has not been created yet",
-      "Submodule topology has not been validated"
-    ]
+    "overall_status": "ready",
+    "ci_status": "green",
+    "docs_status": "ready",
+    "demo_status": "ready",
+    "license_status": "ready",
+    "automation_status": "ready",
+    "blockers": []
   }
 ]

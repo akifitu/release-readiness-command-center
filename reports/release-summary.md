@@ -1,9 +1,9 @@
 # Release Readiness Summary
 
 - Repositories: 6
-- Ready: 4
-- Blocked: 1
-- Total blockers: 3
+- Ready: 5
+- Blocked: 0
+- Total blockers: 1
 - Release gates: 6
 - Errors: 0
 - Warnings: 0
@@ -15,7 +15,7 @@
 - Program Risk Board (program-risk-board) | status: ready | blockers: 0
 - Ops Concept Simulator (ops-concept-simulator) | status: ready | blockers: 0
 - Autonomous Disaster Response Program Office (autonomous-disaster-response-program-office) | status: needs_work | blockers: 1
-- Federated MBSE Ecosystem (federated-mbse-ecosystem) | status: blocked | blockers: 2
+- Federated MBSE Ecosystem (federated-mbse-ecosystem) | status: ready | blockers: 0
 
 ## Errors
 
